@@ -2,3 +2,5 @@
 Console.WriteLine("+------------------+");
 Console.WriteLine("| Hello, GitWorld! |");
 Console.WriteLine("+------------------+");
+
+Console.ReadLine();
